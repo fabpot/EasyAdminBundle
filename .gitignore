@@ -1,9 +1,0 @@
-.php_cs.cache
-composer.lock
-.phpunit.result.cache
-vendor/*
-build/
-
-/node_modules/
-npm-debug.log
-yarn-error.log
